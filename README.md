@@ -1,6 +1,6 @@
 # program-pengelolaan-penumpang-angkot
 
-## Use with console in browser or using node script.js
+## Use with console inside browser
 
 ### Tambah Penumpang
 
